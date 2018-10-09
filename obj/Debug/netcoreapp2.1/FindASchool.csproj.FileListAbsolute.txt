@@ -1,0 +1,14 @@
+c:\AppDrive\FindASchool\bin\Debug\netcoreapp2.1\FindASchool.deps.json
+c:\AppDrive\FindASchool\bin\Debug\netcoreapp2.1\FindASchool.runtimeconfig.json
+c:\AppDrive\FindASchool\bin\Debug\netcoreapp2.1\FindASchool.runtimeconfig.dev.json
+c:\AppDrive\FindASchool\bin\Debug\netcoreapp2.1\FindASchool.dll
+c:\AppDrive\FindASchool\bin\Debug\netcoreapp2.1\FindASchool.pdb
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.csprojAssemblyReference.cache
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.csproj.CoreCompileInputs.cache
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.RazorAssemblyInfo.cache
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.RazorAssemblyInfo.cs
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.AssemblyInfoInputs.cache
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.AssemblyInfo.cs
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.RazorTargetAssemblyInfo.cache
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.dll
+c:\AppDrive\FindASchool\obj\Debug\netcoreapp2.1\FindASchool.pdb
